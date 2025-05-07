@@ -1,1 +1,1 @@
-<img src="aokiji-kuzan.gif" width="1011" height="550" />
+<img src="aokiji-kuzan.gif" width="830" height="465" />
